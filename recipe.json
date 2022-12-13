@@ -1,0 +1,422 @@
+{
+    "recipe": {
+      "id": "cCM+K951SdJ70gzKJjZPEQ==",
+      "title": "Tumis Tauge Telur Puyuh",
+      "slug": "tumis-tauge-telur-puyuh",
+      "cover_url": "content-images/images/20191220/ca6502250ccf323f30836bcac7926e25_800x800.webp",
+      "description": "",
+      "rating": 4,
+      "rating_decimal": 4.7,
+      "video_url": "content-videos/video/20190505/52422ffef4a1b88f0ae9aef006b04c9c.mp4",
+      "price": 22000,
+      "calories": 0,
+      "is_cvc": false,
+      "cooking_time": 15,
+      "serving_min": 3,
+      "serving_max": 4,
+      "release_date": 1553878800,
+      "is_bookmark": false,
+      "is_editorial": true,
+      "rating_user": 0,
+      "is_video": true,
+      "category": "makanan-utama",
+      "meta_title": "",
+      "meta_description": "",
+      "og_caption": "",
+      "og_title": "",
+      "og_description": "",
+      "og_media": "",
+      "rater_count": 36,
+      "publish_date": "30 Maret 2019",
+      "original_image": "content-images/images/20191220/ca6502250ccf323f30836bcac7926e25_800x800.jpg",
+      "brand_slug": "",
+      "recipe_event": {
+        "name": "BONUS TOTAL 300 YUMMY POINT #RabuEkstraPoin November",
+        "slug": "bonus-total-300-yummy-point-rabuekstrapoin-november",
+        "cover_url": "content-images/images/20200115/600ff23a81cb3ec41e2953149a04d402.jpeg"
+      },
+      "recommendation": [
+        {
+          "id": "335KhBa+py5vulSRCdcVSw==",
+          "title": "Oseng Bihun Teriyaki",
+          "slug": "oseng-bihun-teriyaki",
+          "cover_url": "content-images/images/20200408/d67a6921fc5ce6875fede8cbcf078667_200x200.webp",
+          "rating": 3,
+          "rating_decimal": 3.1,
+          "cooking_time": 20,
+          "release_date": 1586319660,
+          "is_editorial": true,
+          "step_count": 5,
+          "author": {
+            "id": "acG7lrHBHr8u5uerk0NeUA==",
+            "username": "radiktya",
+            "name": "radiktya",
+            "avatar": "content-images/avatar/default_200x200.webp",
+            "is_following": false,
+            "is_official": false
+          }
+        },
+        {
+          "id": "7MvHt+6UNgqPNZ29iBbJZA==",
+          "title": "Cumi Havermout Cabai Garam",
+          "slug": "cumi-havermout-cabai-garam",
+          "cover_url": "content-images/images/20200407/e048fe767b9173f8a796cf78ba4e5c1c_200x200.webp",
+          "rating": 4,
+          "rating_decimal": 4.1,
+          "cooking_time": 20,
+          "release_date": 1586238540,
+          "is_editorial": true,
+          "step_count": 5,
+          "author": {
+            "id": "acG7lrHBHr8u5uerk0NeUA==",
+            "username": "radiktya",
+            "name": "radiktya",
+            "avatar": "content-images/avatar/default_200x200.webp",
+            "is_following": false,
+            "is_official": false
+          }
+        },
+        {
+          "id": "Vik2m3j4pFlnLum11+4e8A==",
+          "title": "Pempek Dos",
+          "slug": "pempek-dos-1",
+          "cover_url": "content-images/images/20200407/cddc389c4c73e0286892b67937882a90_200x200.webp",
+          "rating": 3,
+          "rating_decimal": 3.7,
+          "cooking_time": 55,
+          "release_date": 1586236320,
+          "is_editorial": true,
+          "step_count": 5,
+          "author": {
+            "id": "acG7lrHBHr8u5uerk0NeUA==",
+            "username": "radiktya",
+            "name": "radiktya",
+            "avatar": "content-images/avatar/default_200x200.webp",
+            "is_following": false,
+            "is_official": false
+          }
+        },
+        {
+          "id": "eNVvxiYRPWz50yuHkw5QvQ==",
+          "title": "Tumis Bihun Bakso Ayam",
+          "slug": "tumis-bihun-bakso-ayam",
+          "cover_url": "content-images/images/20200319/750b6dcfc62dd905f6b197b90455a1f8_200x200.jpg",
+          "rating": 4,
+          "rating_decimal": 4.3,
+          "cooking_time": 40,
+          "release_date": 1584580440,
+          "is_editorial": true,
+          "step_count": 5,
+          "author": {
+            "id": "+MNbJlRYDJ4q9noJoqeE4A==",
+            "username": "tasya-fiane-wardah",
+            "name": "Tasya Fiane Wardah",
+            "avatar": "avatar_200x200.webp",
+            "is_following": false,
+            "is_official": false
+          }
+        },
+        {
+          "id": "k0wYIVf+1lABcgb8DlBk5A==",
+          "title": "Cireng Nasi Ebi Sambal Kacang",
+          "slug": "cireng-nasi-ebi-sambal-kacang",
+          "cover_url": "content-images/images/20200311/e6f52126e69305aa51f2bb3ba0965eac_200x200.jpg",
+          "rating": 4,
+          "rating_decimal": 4.4,
+          "cooking_time": 25,
+          "release_date": 1583889180,
+          "is_editorial": true,
+          "step_count": 5,
+          "author": {
+            "id": "+MNbJlRYDJ4q9noJoqeE4A==",
+            "username": "tasya-fiane-wardah",
+            "name": "Tasya Fiane Wardah",
+            "avatar": "avatar_200x200.webp",
+            "is_following": false,
+            "is_official": false
+          }
+        },
+        {
+          "id": "nW0YL7ibxY9YAlVzAmOZng==",
+          "title": "Sop Merah",
+          "slug": "sop-merah-1",
+          "cover_url": "content-images/images/20200306/647b59b4dcb2cc704c03a7ec9998c2ad_200x200.jpg",
+          "rating": 4,
+          "rating_decimal": 4.5,
+          "cooking_time": 50,
+          "release_date": 1583493780,
+          "is_editorial": false,
+          "step_count": 5,
+          "author": {
+            "id": "+MNbJlRYDJ4q9noJoqeE4A==",
+            "username": "tasya-fiane-wardah",
+            "name": "Tasya Fiane Wardah",
+            "avatar": "avatar_200x200.webp",
+            "is_following": false,
+            "is_official": false
+          }
+        },
+        {
+          "id": "elqXCtxyt8x+D2aY2CUtqw==",
+          "title": "Kerak Telor Millenial",
+          "slug": "kerak-telor-millenial",
+          "cover_url": "content-images/images/20200306/4994ad5b9c7e2d79830e3d5fa1bdb9a2_200x200.jpg",
+          "rating": 4,
+          "rating_decimal": 4.3,
+          "cooking_time": 45,
+          "release_date": 1582509420,
+          "is_editorial": true,
+          "step_count": 5,
+          "author": {
+            "id": "+MNbJlRYDJ4q9noJoqeE4A==",
+            "username": "tasya-fiane-wardah",
+            "name": "Tasya Fiane Wardah",
+            "avatar": "avatar_200x200.webp",
+            "is_following": false,
+            "is_official": false
+          }
+        },
+        {
+          "id": "MM9rGHtuoywk8MFP6VPlSQ==",
+          "title": "Bala-Bala Mie Samyang",
+          "slug": "bala-bala-mie-samyang",
+          "cover_url": "content-images/images/20200224/10a725eb2b6b8886cd9929a64c8cb136_200x200.jpg",
+          "rating": 4,
+          "rating_decimal": 4.3,
+          "cooking_time": 35,
+          "release_date": 1582273620,
+          "is_editorial": true,
+          "step_count": 5,
+          "author": {
+            "id": "+MNbJlRYDJ4q9noJoqeE4A==",
+            "username": "tasya-fiane-wardah",
+            "name": "Tasya Fiane Wardah",
+            "avatar": "avatar_200x200.webp",
+            "is_following": false,
+            "is_official": false
+          }
+        },
+        {
+          "id": "/f6l6gIYrIgaam5dvfSqaw==",
+          "title": "Mie Mamak",
+          "slug": "mie-mamak",
+          "cover_url": "content-images/images/20200214/98372922a286b3de280e241d01d1f554_200x200.jpg",
+          "rating": 4,
+          "rating_decimal": 4.7,
+          "cooking_time": 60,
+          "release_date": 1581673500,
+          "is_editorial": true,
+          "step_count": 5,
+          "author": {
+            "id": "+MNbJlRYDJ4q9noJoqeE4A==",
+            "username": "tasya-fiane-wardah",
+            "name": "Tasya Fiane Wardah",
+            "avatar": "avatar_200x200.webp",
+            "is_following": false,
+            "is_official": false
+          }
+        },
+        {
+          "id": "8GbM2+0L3OknAozwAOFqGw==",
+          "title": "Cireng Mie Instan",
+          "slug": "cireng-mie-instan",
+          "cover_url": "content-images/images/20200213/45f952098ae2c8db68ada90793eaddfc_200x200.jpg",
+          "rating": 4,
+          "rating_decimal": 4.4,
+          "cooking_time": 35,
+          "release_date": 1581581700,
+          "is_editorial": false,
+          "step_count": 5,
+          "author": {
+            "id": "+MNbJlRYDJ4q9noJoqeE4A==",
+            "username": "tasya-fiane-wardah",
+            "name": "Tasya Fiane Wardah",
+            "avatar": "avatar_200x200.webp",
+            "is_following": false,
+            "is_official": false
+          }
+        }
+      ],
+      "cooking_step": [
+        {
+          "title": "Step 1",
+          "text": "Tumis bawang putih hingga harum, masukkan cabai merah, telur puyuh dan saus tiram. Aduk rata.",
+          "image_url": "content-images/images/20191220/8f4d1c2a3abfe239f815610d4254fe5c_400x400.webp",
+          "order": 1,
+          "start_at": 0,
+          "original_image": "content-images/images/20191220/8f4d1c2a3abfe239f815610d4254fe5c_400x400.jpg"
+        },
+        {
+          "title": "Step 2",
+          "text": "Masukkan garam, gula dan merica. Masukkan air. Masak hingga mendidih.",
+          "image_url": "content-images/images/20191220/e4149bd548318a1c97ba356263e64f32_400x400.webp",
+          "order": 2,
+          "start_at": 0,
+          "original_image": "content-images/images/20191220/e4149bd548318a1c97ba356263e64f32_400x400.jpg"
+        },
+        {
+          "title": "Step 3",
+          "text": "Masukkan tahu. Aduk rata.",
+          "image_url": "content-images/images/20191220/efae5539620c643de4189b739bcebca1_400x400.webp",
+          "order": 3,
+          "start_at": 0,
+          "original_image": "content-images/images/20191220/efae5539620c643de4189b739bcebca1_400x400.jpg"
+        },
+        {
+          "title": "Step 4",
+          "text": "Kemudian masukkan tauge. aduk merata dan pastikan tauge tidak terlalu layu.",
+          "image_url": "content-images/images/20191220/aa8c5c1370ee95b743b244c8f3d31d9f_400x400.webp",
+          "order": 4,
+          "start_at": 0,
+          "original_image": "content-images/images/20191220/aa8c5c1370ee95b743b244c8f3d31d9f_400x400.jpg"
+        },
+        {
+          "title": "Step 5",
+          "text": "Taburi dengan bawang daun, sajikan.",
+          "image_url": "content-images/images/20191220/6dda2c5d8a6113ad199cabfce8b4340f_400x400.webp",
+          "order": 5,
+          "start_at": 0,
+          "original_image": "content-images/images/20191220/6dda2c5d8a6113ad199cabfce8b4340f_400x400.jpg"
+        }
+      ],
+      "tags": [
+        {
+          "id": "6aBOthKNa+VwyAhY6H31dA==",
+          "name": "Makanan Utama",
+          "slug": "makanan-utama"
+        },
+        {
+          "id": "tOplBenkM7ML6lriG2pTow==",
+          "name": "Makanan Rumahan",
+          "slug": "makanan-rumahan"
+        },
+        {
+          "id": "XPiIeXTytIkJa/n6ueUNAg==",
+          "name": "Makanan indonesia",
+          "slug": "makanan-indonesia"
+        }
+      ],
+      "recipe_info": [
+        {
+          "name": "Halal",
+          "slug": "halal",
+          "media_url": ""
+        }
+      ],
+      "author": {
+        "id": "ULVi2WStLHv35SbyTDE1iw==",
+        "username": "developer",
+        "name": "Developer",
+        "avatar": "content-images/avatar/developer_200x200.webp",
+        "is_following": false,
+        "is_official": false
+      },
+      "ingredient_type": [
+        {
+          "name": "Bahan Dasar",
+          "ingredients": [
+            {
+              "description": "100 gr tauge, cuci bersih",
+              "recommendation": ""
+            },
+            {
+              "description": "4 buah cabai merah, iris",
+              "recommendation": ""
+            },
+            {
+              "description": "2 buah tahu putih, potong dadu, goreng",
+              "recommendation": ""
+            },
+            {
+              "description": "15 buah telur puyuh rebus",
+              "recommendation": ""
+            },
+            {
+              "description": "2 sdm saus tiram",
+              "recommendation": ""
+            },
+            {
+              "description": "4 siung bawang putih, iris",
+              "recommendation": ""
+            },
+            {
+              "description": "½ sdt garam",
+              "recommendation": ""
+            },
+            {
+              "description": "1 sdt gula pasir",
+              "recommendation": ""
+            },
+            {
+              "description": "½ sdt merica",
+              "recommendation": ""
+            },
+            {
+              "description": "100 ml air",
+              "recommendation": ""
+            },
+            {
+              "description": "1 batang bawang daun, iris",
+              "recommendation": ""
+            }
+          ]
+        }
+      ]
+    },
+    "comment": [
+      {
+        "parent_random_key": "",
+        "random_key": "sNOHX1hzolndTmHAPU2ROARlaBCdgCnn",
+        "recipe_id": "cCM+K951SdJ70gzKJjZPEQ==",
+        "recipe_title": "Tumis Tauge Telur Puyuh",
+        "recipe_slug": "tumis-tauge-telur-puyuh",
+        "comment": "menggiurkan untuk dicoba",
+        "image_url": "",
+        "created_at": 1590736559,
+        "like_count": 0,
+        "reply_count": 0,
+        "is_liked": false,
+        "user": {
+          "username": "arfian-bagus",
+          "name": "Arfian Bagus",
+          "avatar": "content-images/images/20200715/03ngjwZVhtYlPUuObM9tz2bARNb8VX8N-31353934383035373133d41d8cd98f00b204e9800998ecf8427e_200x200.webp"
+        }
+      },
+      {
+        "parent_random_key": "",
+        "random_key": "rn3umyS9YvzpNIMJnDQCzQNSUIQKFyUN",
+        "recipe_id": "cCM+K951SdJ70gzKJjZPEQ==",
+        "recipe_title": "Tumis Tauge Telur Puyuh",
+        "recipe_slug": "tumis-tauge-telur-puyuh",
+        "comment": "kalo gk suka pedas jangan banyak2 cabe sama merica nya",
+        "image_url": "",
+        "created_at": 1566921524,
+        "like_count": 2,
+        "reply_count": 0,
+        "is_liked": false,
+        "user": {
+          "username": "iqlimah-jazilah",
+          "name": "IQLIMAH JAZILAH",
+          "avatar": "content-images/avatar/default_200x200.webp"
+        }
+      },
+      {
+        "parent_random_key": "",
+        "random_key": "iH7HkgJvVXNXFjHiVUYaUab7sgBZ9zzP",
+        "recipe_id": "cCM+K951SdJ70gzKJjZPEQ==",
+        "recipe_title": "Tumis Tauge Telur Puyuh",
+        "recipe_slug": "tumis-tauge-telur-puyuh",
+        "comment": "resep masakan sehat utk keluarga dirmh ❤👍",
+        "image_url": "",
+        "created_at": 1563583805,
+        "like_count": 3,
+        "reply_count": 0,
+        "is_liked": false,
+        "user": {
+          "username": "azza-aulia-putri",
+          "name": "Azza Aulia Putri",
+          "avatar": "content-images/images/20191223/fn8YOrPc2miGGLUmqusXDZjVaZXgDJH4-31353631383034313038d41d8cd98f00b204e9800998ecf8427e_200x200.webp"
+        }
+      }
+    ]
+  }

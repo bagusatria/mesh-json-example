@@ -1,0 +1,30 @@
+sources:
+  - name: mesh-json-example
+    handler:
+      jsonSchema:
+        endpoint: http://10.100.100.251:3000/
+        operations:
+          - type: Query
+            field: official_accounts
+            path: /official_accounts
+            method: GET
+            responseSample: ./official.json
+            responseTypeName: OfficialAcc
+          - type: Query
+            field: user
+            path: /user
+            method: GET
+            responseSample: ./user.json
+            responseTypeName: User
+          - type: Query
+            field: events
+            path: /events
+            method: GET
+            responseSample: ./events.json
+            responseTypeName: Events
+          - type: Query
+            field: recipe
+            path: /recipe-detail
+            method: GET
+            responseSample: ./recipe.json
+            responseTypeName: Recipe

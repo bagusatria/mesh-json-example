@@ -1,0 +1,22 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": [
+      {
+        "name": "test event social",
+        "slug": "test-event-social",
+        "cover_url": "content-images/images/20210818/9018d6fdb3aa4c65557b955a830b6328_800x242.webp",
+        "point_bonus": 0,
+        "excerpt": "",
+        "event_category": "masak",
+        "event_type": "social",
+        "expired": false,
+        "start_date": 1629219600,
+        "end_date": 1640796900,
+        "period_left": 118,
+        "brand_slug": "",
+        "brand_id": "",
+        "featured_media": "content-images/images/20210818/bed2f70766ac35eef291e9880325bf59_528x944.webp"
+      }
+    ]
+  }

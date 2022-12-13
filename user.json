@@ -1,0 +1,26 @@
+{
+    "user": {
+      "id": "NlKSHi7LQcBNzHYqopTS/w==",
+      "username": "arfian-bagus",
+      "name": "Arfian Bagus",
+      "avatar": "content-images/images/20200515/GD3VF4TLvJigV5HaCmtLebHaWYivpMOv-31353839353133313239d41d8cd98f00b204e9800998ecf8427e_200x200.webp",
+      "type": "",
+      "following_count": 56325,
+      "follower_count": 42976233,
+      "is_following": false,
+      "gender": 0,
+      "email": "arfianbagus@gmail.com",
+      "phone_number": "6282334972749",
+      "enable_referral_code": false,
+      "recipe_count": 934,
+      "is_official": false,
+      "city": {
+        "name": "",
+        "slug": ""
+      },
+      "dietStatus": {
+        "name": "",
+        "slug": ""
+      }
+    }
+  }
